@@ -1,16 +1,24 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+  "ice_cream": [
     {
       "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "flavor": "strawberry",
+      "favorites": 21
+    },
+    {
+      "id": 1,
+      "flavor": "cookies and cream",
+      "favorites": 29
+    },
+    {
+      "flavor": "vanilla",
+      "favorites": 28,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "flavor": "chocolate",
+      "favorites": 31
     }
   ]
 }
